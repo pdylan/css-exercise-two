@@ -1,8 +1,8 @@
 body {
-  background-color: #ffffff;
+  background-color: #4758;
   color: #000000;
   font-size: 16px;
-  line-height: normal;
+  line-height: 25px;
   background-image: url(image/bloc-logo.png);
 
 }
@@ -70,5 +70,5 @@ a {
 
 a:link { color:#0070BB; } /* unvisited */
 a:visited { color:#0070BA; } /* visited */
-a:hover { color:#0070BC; } /* mouse over */
+a:hover { color:#000044; } /* mouse over */
 a:active { color:#0070BD; } /* selected */
