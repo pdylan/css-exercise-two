@@ -3,13 +3,12 @@ body {
   color: #000000;
   font-size: 16px;
   line-height: 25px;
-  background-image: url(image/bloc-logo.png);
 
 }
 
 h1 {
   font-size: 2em; /* 32px */
-  background-image: url(images/instagram-pic.jpg);
+
 }
 
 p {
